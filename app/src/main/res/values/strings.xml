@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CurrencyConverter2</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string name="enter_a_value">Enter a value</string>
+
+    <string-array name="currencies">
+        <item>PLN</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CHF</item>
+    </string-array>
+
+    <string-array name="currencies2">
+        <item>PLN</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CHF</item>
+    </string-array>
+</resources>
